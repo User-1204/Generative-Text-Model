@@ -150,3 +150,4 @@ Free for both personal and commercial use.
 
 
 ## 🎯 Output:
+![Image](https://github.com/user-attachments/assets/f2fffafb-579d-4af9-98ca-d4cd71314547)
